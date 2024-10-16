@@ -35,19 +35,13 @@ MIXED 127.0.0.1:18080
 5.复制节点ID与接入点ID，如图（假设【01J4BHTS09XTV2EQNEE4PEC7PF是节点ID】【01J4BJ22WD36NNSG6X5C2RSA55是接入点ID】）
 ![1](https://github.com/user-attachments/assets/7b15d595-4be1-4513-b663-f2538f71e460)
 
-6.**访问 http://127.0.0.1:8888/node/test?node_id=01J4BHTS09XTV2EQNEE4PEC7PF&access_point_id=01J4BJ22WD36NNSG6X5C2RSA55 测试通信延迟（模拟访问谷歌通信）**
+6.如果测试失败，请确保本机时间误差小于30秒，否则无法使用任何节点 [访问这个网站检查误差](https://time.is)
 
-6.**访问 http://127.0.0.1:8888/node/test?node_id=01J4BHTS09XTV2EQNEE4PEC7PF&access_point_id=01J4BJ22WD36NNSG6X5C2RSA55 测试通信延迟（模拟访问谷歌通信）**
+7.切换节点 http://127.0.0.1:8888/node/switch?node_id=01J4BHTS09XTV2EQNEE4PEC7PF&access_point_id=01J4BJ22WD36NNSG6X5C2RSA55 
 
-6.**访问 http://127.0.0.1:8888/node/test?node_id=01J4BHTS09XTV2EQNEE4PEC7PF&access_point_id=01J4BJ22WD36NNSG6X5C2RSA55 测试通信延迟（模拟访问谷歌通信）**
+8.查看当前节点ID与接入点ID http://127.0.0.1:8888/node/info
 
-7.如果测试失败，请确保本机时间误差小于30秒，否则无法使用任何节点 [访问这个网站检查误差](https://time.is)
-
-8.切换节点 http://127.0.0.1:8888/node/switch?node_id=01J4BHTS09XTV2EQNEE4PEC7PF&access_point_id=01J4BJ22WD36NNSG6X5C2RSA55 
-
-9.查看当前节点ID与接入点ID http://127.0.0.1:8888/node/info
-
-10.使用 HTTP / SOCKS 4/4a/5 / MIXED 连接代理
+9.使用 HTTP / SOCKS 4/4a/5 / MIXED 连接代理
 
 ## 如果不会连接代理 HTTP / SOCKS 4/4a/5 / MIXED 代理请继续阅读
 1.点击对应浏览器安装代理插件 [edge](https://microsoftedge.microsoft.com/addons/detail/fdbloeknjpnloaggplaobopplkdhnikc) [chrome](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
