@@ -43,6 +43,11 @@ MIXED 127.0.0.1:18080
 
 9.使用 HTTP / SOCKS 4/4a/5 / MIXED 连接代理
 
+## geosite导致的兼容性问题（下个版本更新解决）
+请删除 config.json 文件中如下规则，不删除可能导致http代理无法正常使用
+![Snipaste_2024-10-17_06-43-17](https://github.com/user-attachments/assets/04160b2d-e5dc-4245-8f09-40681759efce)
+
+
 ## 如果不会连接代理 HTTP / SOCKS 4/4a/5 / MIXED 代理请继续阅读
 1.点击对应浏览器安装代理插件 [edge](https://microsoftedge.microsoft.com/addons/detail/fdbloeknjpnloaggplaobopplkdhnikc) [chrome](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 
