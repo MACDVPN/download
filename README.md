@@ -51,6 +51,7 @@ MIXED 127.0.0.1:18080
 
 ## 错误日志
 注意！不是所有错误都是有致命性！
+注意！以下错误信息也可能会出现在api错误信息，处理方法保持一致
 
 如出现以下错误日志：只需等待片刻即可，软件正在获取服务端点 automatically retrieving...
 ```
@@ -72,7 +73,6 @@ MIXED 127.0.0.1:18080
 ```
 {"level":"error","error":"unsupported network type","time":"......","message":"handler"}
 ```
-
 
 ### 全平台支持情况
 命令行版本 - windows（已发布）
