@@ -49,15 +49,27 @@ MIXED 127.0.0.1:18080
 
 10.使用 HTTP / SOCKS 4/4a/5 / MIXED 连接代理
 
-## 如果不会连接代理 HTTP / SOCKS 4/4a/5 / MIXED 代理请继续阅读
-1.点击对应浏览器安装代理插件 [edge](https://microsoftedge.microsoft.com/addons/detail/fdbloeknjpnloaggplaobopplkdhnikc) [chrome](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+## 错误日志
+注意！不是所有错误都是有致命性！
 
-2.安装完成后请按照图片操作
-![1](https://github.com/user-attachments/assets/cd7f22c1-6f5c-402f-9c4d-8709e244fc14)
-![1](https://github.com/user-attachments/assets/0ce3f83f-c239-41d8-b444-228c6d05ba96)
-![1](https://github.com/user-attachments/assets/39428412-f124-4954-a4cc-ac7a5b562729)
-![1](https://github.com/user-attachments/assets/f43b4315-40d6-4927-9a2b-ecc2bad7c0bc)
-![1](https://github.com/user-attachments/assets/b4613abb-7b8c-4976-b4b5-bdfbeeea9395)
+如出现以下错误日志：只需等待片刻即可，软件正在获取服务端点 automatically retrieving...
+```
+{"level":"error","error":"api endpoint does not exist, automatically retrieving...","time":"......","message":"call"}
+```
+
+如出现以下错误日志：只是软件在后台与服务端点通信，无任何影响，不必关注
+```
+{"level":"error","error":"...... dialing to the given TCP address timed out","time":"......","message":"do"}
+```
+```
+{"level":"error","error":"timeout","time":"......","message":"do"}
+```
+
+如出现以下错误日志：原因是没有设置节点请查看上方设置节点教程
+```
+{"level":"error","error":"unsupported network type","time":"......","message":"handler"}
+```
+
 
 ### 全平台支持情况
 命令行版本 - windows（已发布）
