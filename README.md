@@ -64,6 +64,9 @@ MIXED 127.0.0.1:18080
 ```
 {"level":"error","error":"timeout","time":"......","message":"do"}
 ```
+```
+{"level":"error","error":"read tcp4 ......: wsarecv: An existing connection was forcibly closed by the remote host.","time":"......","message":"do"}
+```
 
 如出现以下错误日志：原因是没有设置节点请查看上方设置节点教程
 ```
