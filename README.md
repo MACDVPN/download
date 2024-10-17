@@ -69,6 +69,10 @@ MIXED 127.0.0.1:18080
 {"level":"error","error":"read tcp4 ......: wsarecv: An existing connection was forcibly closed by the remote host.","time":"......","message":"do"}
 ```
 
+如果您遇到相关 session does not exist 错误信息请查看下图
+![Snipaste_2024-10-17_20-16-51](https://github.com/user-attachments/assets/747bc37e-69c1-44ff-8167-a9cc80fe5f71)
+
+
 如出现以下错误日志：原因是没有设置节点请查看上方设置节点教程
 ```
 {"level":"error","error":"unsupported network type","time":"......","message":"handler"}
