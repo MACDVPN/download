@@ -34,7 +34,7 @@ MIXED 127.0.0.1:18080
 
 如出现以下错误日志：只需等待片刻即可，软件正在获取服务端点 automatically retrieving...
 ```
-{"level":"error","error":"api endpoint does not exist, automatically retrieving...","time":"......","message":"call"}
+{"level":"error","error":"endpoint does not exist, automatically retrieving...","time":"......","message":"call"}
 ```
 
 如出现以下错误日志：只是软件在后台与服务端点通信，无任何影响，不必关注
