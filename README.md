@@ -14,6 +14,16 @@ MIXED 127.0.0.1:18080
 ### 命令行版本使用教程（软路由教程，没有软路由不要使用，除非你有一点的电脑技术）
 1.下载对应版本启动（运行错误版本会无法启动）
 
+**版本_操作系统_CPU平台**
+
+**console_windows_386.exe** 32位操作系统 
+
+**console_windows_amd64_v1.exe** 64位操作系统 （v1是cpu版本，v1兼容全部cpu，高端cpu用v3会有更好性能表现）
+
+**console_windows_arm.exe** ...此cpu用户应该都不用解释
+
+**console_windows_arm64.exe** ...此cpu用户应该都不用解释
+
 2.启动会有报错找不到 geoip.db 与 geosite.db （记住找不到的文件路径）
 
 3.前往 [geoip](https://github.com/SagerNet/sing-geoip/releases) 与 [geosite](https://github.com/SagerNet/sing-geosite/releases) 下载数据库
