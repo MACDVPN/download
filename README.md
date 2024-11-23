@@ -1,2 +1,169 @@
-# download
-download
+# 以下节点（免费除外）都是我们的自营网络（ASN XXX）！没有其他中间商赚差价！不会因为其他服务器商导致的不稳定影响体验与安全性！
+![圖片](https://github.com/user-attachments/assets/264c9d0f-49d1-4649-a452-6ed52c8c9c56)
+![圖片](https://github.com/user-attachments/assets/e19a284c-e4ac-4d16-99f3-6c5de992b9e0)
+![圖片](https://github.com/user-attachments/assets/7f2861a3-46cd-4501-9a80-db65c73dc791)
+![圖片](https://github.com/user-attachments/assets/5d364bea-fe6c-4f7a-a74e-fe0934f12d3a)
+![圖片](https://github.com/user-attachments/assets/4e49ad70-1c36-4776-af73-1db7ca227e2f)
+![圖片](https://github.com/user-attachments/assets/d5d5f941-7bd1-46fe-afcd-8471493a97cc)
+![圖片](https://github.com/user-attachments/assets/50297145-0cec-4c21-9abf-2b07d5634d60)
+![圖片](https://github.com/user-attachments/assets/32121a39-ada8-46b4-b19f-bd10cc1af5de)
+![圖片](https://github.com/user-attachments/assets/a9f86065-a1d1-42c7-a25f-6ed578d3e746)
+![圖片](https://github.com/user-attachments/assets/ae6e006a-7ff0-44d0-9c13-6054f8d3ca5a)
+![圖片](https://github.com/user-attachments/assets/131173d6-91e8-4494-9db8-ea23db268542)
+![圖片](https://github.com/user-attachments/assets/3493d3d4-b137-47ac-b735-f36f4e6b6d57)
+
+
+# 错误日志
+**不重要但很多人问（简单来说所有ERR错误信息你都应该当不存在或看不见！因为没有任何影响！）**
+
+**以下只是一些错误的解释，您不需要去解决！因为没有任何影响！**
+
+如出现以下错误日志：只需等待片刻即可（5秒内），软件正在获取服务端点 automatically retrieving...（获取成功不会显示成功，但不会再输出此错误）
+```
+ERR call error="endpoint does not exist, automatically retrieving..."
+```
+
+如出现以下错误日志：因为软件还没获取到服务端点 automatically retrieving...（获取成功不会显示成功，但不会再输出此错误）
+```
+ERR get dialer error="outbound config does not exist"
+```
+
+如出现以下错误日志：只是在与服务端点进行通信，此错误不影响软件的任何功能，请直接忽略
+```
+ERR do error="error when dialing *.*.*.*:****: dialing to the given TCP address timed out"
+```
+
+```
+ERR do error="tls handshake timed out"
+```
+```
+ERR do error="remote error: tls: handshake failure"
+```
+
+```
+ERR do error="lookup ***: i/o timeout"
+```
+
+**以上是一些常见的错误解释，你不需要去解决！你都应该当不存在或看不见！因为没有任何影响！**
+
+**其他错误请直接忽略**
+
+# 快速帮助
+把整个过程录视频/录屏等方式发给客服，客服会快速的指正你的错误，这可以有效避免时间的浪费
+
+# 全平台支持情况
+windows console（已发布）
+
+mac console（已发布）
+
+linux console（已发布）
+
+windows gui（待封装）
+
+mac gui（待封装）
+
+android（待封装）
+
+ios（即将发布）
+
+# 命令行版本使用教程（本机模式）
+1.下载
+
+2.使用**CMD/SHELL/终端**启动（启动失败请尝试其他版本）
+
+2.访问 http://127.0.0.1:8888 打开管理控制台
+
+3.登录账号
+
+4.确认订阅有效
+
+5.选择出站节点
+
+6.开启安全与极速之旅（默认会设置系统代理，可以自己设置MIXED代理）
+
+[windows控制台版本使用教程.mp4](https://macdvpn.com/tmp/video/windows-console.mp4)
+
+[mac控制台版本使用教程.mp4](https://macdvpn.com/tmp/video/mac-console.mp4)
+
+# 命令行版本使用教程（局域网模式）
+1.下载
+
+2.使用**CMD/SHELL/终端**启动（启动失败请尝试其他版本）
+
+3.显示 **启动成功** 关闭程序（首次配置之后可跳过）
+
+4.修改 config.json 配置文件 127.0.0.1 全部替换为 0.0.0.0 允许局域网访问（首次配置之后可跳过）
+
+5.使用**CMD/SHELL/终端**启动（启动失败请尝试其他版本）
+
+6.访问 https://{启动程序的设备IP}:8888（注意！是**https**） 打开管理控制台
+
+7.登录账号
+
+8.确认订阅有效
+
+9.选择出站节点
+
+10.开启安全与极速之旅（默认会设置系统代理，可以自己设置MIXED代理）
+
+# 自定义路由与配置（修改配置文件后需重启软件）
+windows 配置文件存储路径 C:\Users\{你的电脑用户名}\AppData\Roaming\MACDVPNCore\config.json
+
+mac 配置文件存储路径 /Users/{你的电脑用户名}/Library/Application Support/MACDVPNCore/config.json
+
+linux 配置文件存储路径 {运行目录}/.config/MACDVPNCore/config.json
+
+# 默认代理
+```
+HTTP: 127.0.0.1:8080 （不推荐！）
+```
+
+```
+SOCKS 4/4a/5 127.0.0.1:1080 （不推荐！）
+```
+
+```
+MIXED 127.0.0.1:18080 （推荐！兼容 HTTP / SOCKS 4/4a/5）
+```
+
+# 命令行版本
+## windows
+[20171102.20171120_console_windows_386.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_386.exe)（兼容32位与64位操作系统）
+
+[20171102.20171120_console_windows_amd64_v1.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_amd64_v1.exe)（64位操作系统**兼容所有CPU**）
+
+[20171102.20171120_console_windows_amd64_v2.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_amd64_v2.exe)（64位操作系统**高**端CPU版本）
+
+[20171102.20171120_console_windows_amd64_v3.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_amd64_v3.exe)（64位操作系统**高高**端CPU版本）
+
+[20171102.20171120_console_windows_amd64_v4.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_amd64_v4.exe)（64位操作系统**高高高**端CPU版本）
+
+[20171102.20171120_console_windows_arm.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_arm.exe)（移动端处理器兼容32位与64位操作系统）
+
+[20171102.20171120_console_windows_arm64.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_arm64.exe)（移动端处理器64位操作系统）
+
+## mac
+[20171102.20171120_console_darwin_amd64_v1](https://macdvpn.com/tmp/20171102.20171120/console_darwin_amd64_v1)（64位操作系统**兼容所有CPU**）
+
+[20171102.20171120_console_darwin_amd64_v2](https://macdvpn.com/tmp/20171102.20171120/console_darwin_amd64_v2)（64位操作系统**高**端CPU版本）
+
+[20171102.20171120_console_darwin_amd64_v3](https://macdvpn.com/tmp/20171102.20171120/console_darwin_amd64_v3)（64位操作系统**高高**端CPU版本）
+
+[20171102.20171120_console_darwin_amd64_v4](https://macdvpn.com/tmp/20171102.20171120/console_darwin_amd64_v4)（64位操作系统**高高高**端CPU版本）
+
+[20171102.20171120_console_darwin_arm64](https://macdvpn.com/tmp/20171102.20171120/console_darwin_arm64)（移动端处理器64位操作系统）
+
+## linux
+[20171102.20171120_console_linux_386](https://macdvpn.com/tmp/20171102.20171120/console_linux_386)（兼容32位与64位操作系统）
+
+[20171102.20171120_console_linux_amd64_v1](https://macdvpn.com/tmp/20171102.20171120/console_linux_amd64_v1)（64位操作系统**兼容所有CPU**）
+
+[20171102.20171120_console_linux_amd64_v2](https://macdvpn.com/tmp/20171102.20171120/console_linux_amd64_v2)（64位操作系统**高**端CPU版本）
+
+[20171102.20171120_console_linux_amd64_v3](https://macdvpn.com/tmp/20171102.20171120/console_linux_amd64_v3)（64位操作系统**高高**端CPU版本）
+
+[20171102.20171120_console_linux_amd64_v4](https://macdvpn.com/tmp/20171102.20171120/console_linux_amd64_v4)（64位操作系统**高高高**端CPU版本）
+
+[20171102.20171120_console_linux_arm](https://macdvpn.com/tmp/20171102.20171120/console_linux_arm)（移动端处理器兼容32位与64位操作系统）
+
+[20171102.20171120_console_linux_arm64](https://macdvpn.com/tmp/20171102.20171120/console_linux_arm64)（移动端处理器64位操作系统）
