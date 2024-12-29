@@ -20,6 +20,8 @@
 
 **以下只是一些错误的解释，您不需要去解决！因为没有任何影响！**
 
+![圖片](https://github.com/user-attachments/assets/7fc8e958-898b-4153-b160-0e24f477029a)
+
 如出现以下错误日志：只需等待片刻即可（5秒内），软件正在获取服务端点 automatically retrieving...（获取成功不会显示成功，但不会再输出此错误）
 ```
 ERR call error="endpoint does not exist, automatically retrieving..."
