@@ -12,11 +12,7 @@
 ![圖片](https://github.com/user-attachments/assets/4e49ad70-1c36-4776-af73-1db7ca227e2f)
 ![圖片](https://github.com/user-attachments/assets/d5d5f941-7bd1-46fe-afcd-8471493a97cc)
 ![圖片](https://github.com/user-attachments/assets/50297145-0cec-4c21-9abf-2b07d5634d60)
-![圖片](https://github.com/user-attachments/assets/32121a39-ada8-46b4-b19f-bd10cc1af5de)
-![圖片](https://github.com/user-attachments/assets/a9f86065-a1d1-42c7-a25f-6ed578d3e746)
-![圖片](https://github.com/user-attachments/assets/ae6e006a-7ff0-44d0-9c13-6054f8d3ca5a)
-![圖片](https://github.com/user-attachments/assets/131173d6-91e8-4494-9db8-ea23db268542)
-![圖片](https://github.com/user-attachments/assets/3493d3d4-b137-47ac-b735-f36f4e6b6d57)
+![圖片](https://github.com/user-attachments/assets/28f49a85-a49b-47fe-8359-4c55986ef5a9)
 
 
 # 错误日志
