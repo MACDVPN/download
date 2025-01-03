@@ -134,30 +134,26 @@ MIXED 127.0.0.1:18080 （推荐！兼容 HTTP / SOCKS 4/4a/5）
 
 # 命令行版本
 ## windows
-[20171102.20171120_console_windows_386.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_386.exe)（兼容32位与64位操作系统）
+[20171202.20171209_console_windows_amd64_v1.exe](https://macdvpn.com/tmp/20171202.20171209/console_windows_amd64_v1.exe)（64位操作系统**兼容所有CPU**）
 
-[20171102.20171120_console_windows_amd64_v1.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_amd64_v1.exe)（64位操作系统**兼容所有CPU**）
+[20171202.20171209_console_windows_amd64_v3.exe](https://macdvpn.com/tmp/20171202.20171209/console_windows_amd64_v3.exe)（64位操作系统**高高**端CPU版本）
 
-[20171102.20171120_console_windows_amd64_v3.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_amd64_v3.exe)（64位操作系统**高高**端CPU版本）
+[20171202.20171209_console_windows_arm.exe](https://macdvpn.com/tmp/20171202.20171209/console_windows_arm.exe)（移动端处理器兼容32位与64位操作系统）
 
-[20171102.20171120_console_windows_arm.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_arm.exe)（移动端处理器兼容32位与64位操作系统）
-
-[20171102.20171120_console_windows_arm64.exe](https://macdvpn.com/tmp/20171102.20171120/console_windows_arm64.exe)（移动端处理器64位操作系统）
+[20171202.20171209_console_windows_arm64.exe](https://macdvpn.com/tmp/20171202.20171209/console_windows_arm64.exe)（移动端处理器64位操作系统）
 
 ## mac
-[20171102.20171120_console_darwin_amd64_v1](https://macdvpn.com/tmp/20171102.20171120/console_darwin_amd64_v1)（64位操作系统**兼容所有CPU**）
+[20171202.20171209_console_darwin_amd64_v1](https://macdvpn.com/tmp/20171202.20171209/console_darwin_amd64_v1)（64位操作系统**兼容所有CPU**）
 
-[20171102.20171120_console_darwin_amd64_v3](https://macdvpn.com/tmp/20171102.20171120/console_darwin_amd64_v3)（64位操作系统**高高**端CPU版本）
+[20171202.20171209_console_darwin_amd64_v3](https://macdvpn.com/tmp/20171202.20171209/console_darwin_amd64_v3)（64位操作系统**高高**端CPU版本）
 
-[20171102.20171120_console_darwin_arm64](https://macdvpn.com/tmp/20171102.20171120/console_darwin_arm64)（移动端处理器64位操作系统）
+[20171202.20171209_console_darwin_arm64](https://macdvpn.com/tmp/20171202.20171209/console_darwin_arm64)（移动端处理器64位操作系统）
 
 ## linux
-[20171102.20171120_console_linux_386](https://macdvpn.com/tmp/20171102.20171120/console_linux_386)（兼容32位与64位操作系统）
+[20171202.20171209_console_linux_amd64_v1](https://macdvpn.com/tmp/20171202.20171209/console_linux_amd64_v1)（64位操作系统**兼容所有CPU**）
 
-[20171102.20171120_console_linux_amd64_v1](https://macdvpn.com/tmp/20171102.20171120/console_linux_amd64_v1)（64位操作系统**兼容所有CPU**）
+[20171202.20171209_console_linux_amd64_v3](https://macdvpn.com/tmp/20171202.20171209/console_linux_amd64_v3)（64位操作系统**高高**端CPU版本）
 
-[20171102.20171120_console_linux_amd64_v3](https://macdvpn.com/tmp/20171102.20171120/console_linux_amd64_v3)（64位操作系统**高高**端CPU版本）
+[20171202.20171209_console_linux_arm](https://macdvpn.com/tmp/20171202.20171209/console_linux_arm)（移动端处理器兼容32位与64位操作系统）
 
-[20171102.20171120_console_linux_arm](https://macdvpn.com/tmp/20171102.20171120/console_linux_arm)（移动端处理器兼容32位与64位操作系统）
-
-[20171102.20171120_console_linux_arm64](https://macdvpn.com/tmp/20171102.20171120/console_linux_arm64)（移动端处理器64位操作系统）
+[20171202.20171209_console_linux_arm64](https://macdvpn.com/tmp/20171202.20171209/console_linux_arm64)（移动端处理器64位操作系统）
