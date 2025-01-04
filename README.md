@@ -1,6 +1,6 @@
-# 因为目前控制台版本是由桌面版编译出来的分支，在桌面上运行良好，在浏览器中运行可能存在一些问题，如显示token formate error，请访问 https://127.0.0.1:8888/account/login 重新登陆
-# 因为目前控制台版本是由桌面版编译出来的分支，在桌面上运行良好，在浏览器中运行可能存在一些问题，如显示token formate error，请访问 https://127.0.0.1:8888/account/login 重新登陆
-# 因为目前控制台版本是由桌面版编译出来的分支，在桌面上运行良好，在浏览器中运行可能存在一些问题，如显示token formate error，请访问 https://127.0.0.1:8888/account/login 重新登陆
+# 因为目前控制台版本是由桌面版编译出来的分支，在桌面上运行良好，在浏览器中运行可能存在一些问题，如显示token formate error，请访问 http://127.0.0.1:8888/account/login 重新登陆
+# 因为目前控制台版本是由桌面版编译出来的分支，在桌面上运行良好，在浏览器中运行可能存在一些问题，如显示token formate error，请访问 http://127.0.0.1:8888/account/login 重新登陆
+# 因为目前控制台版本是由桌面版编译出来的分支，在桌面上运行良好，在浏览器中运行可能存在一些问题，如显示token formate error，请访问 http://127.0.0.1:8888/account/login 重新登陆
 
 # 以下节点（免费除外）都是我们的自营网络（ASN XXX）！没有其他中间商赚差价！不会因为其他服务器商导致的不稳定影响体验与安全性！
 ![圖片](https://github.com/user-attachments/assets/264c9d0f-49d1-4649-a452-6ed52c8c9c56)
