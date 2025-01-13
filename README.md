@@ -18,36 +18,6 @@
 
 ![圖片](https://github.com/user-attachments/assets/7fc8e958-898b-4153-b160-0e24f477029a)
 
-如出现以下错误日志：只需等待片刻即可（5秒内），软件正在获取服务端点 automatically retrieving...（获取成功不会显示成功，但不会再输出此错误）
-```
-ERR call error="endpoint does not exist, automatically retrieving..."
-```
-
-如出现以下错误日志：因为软件还没获取到服务端点 automatically retrieving...（获取成功不会显示成功，但不会再输出此错误）
-```
-ERR get dialer error="outbound config does not exist"
-```
-
-如出现以下错误日志：只是在与服务端点进行通信，此错误不影响软件的任何功能，请直接忽略
-```
-ERR do error="error when dialing *.*.*.*:****: dialing to the given TCP address timed out"
-```
-
-```
-ERR do error="tls handshake timed out"
-```
-```
-ERR do error="remote error: tls: handshake failure"
-```
-
-```
-ERR do error="lookup ***: i/o timeout"
-```
-
-**以上是一些常见的错误解释，你不需要去解决！你都应该当不存在或看不见！因为没有任何影响！**
-
-**其他错误请直接忽略**
-
 # 快速帮助
 把整个过程录视频/录屏等方式发给客服，客服会快速的指正你的错误，这可以有效避免时间的浪费
 
@@ -80,8 +50,6 @@ ios（即将发布）
 5.选择出站节点
 
 6.开启安全与极速之旅（默认会设置系统代理，可以自己设置MIXED代理）
-
-[windows控制台版本使用教程.mp4](https://macdvpn.com/tmp/video/windows-console.mp4)
 
 [mac控制台版本使用教程.mp4](https://macdvpn.com/tmp/video/mac-console.mp4)
 
