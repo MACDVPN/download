@@ -98,7 +98,7 @@ MIXED 127.0.0.1:18080 （推荐！兼容 HTTP / SOCKS 4/4a/5）
 
 # 桌面版
 ## windows
-[20171205.20171219_desktop_windows_amd64.exe](https://macdvpn.com/download/windows-amd64)（64位操作系统**兼容所有CPU**）
+[20171205.20171219_desktop_windows_amd64.exe](https://macdvpn.com/tmp/20171205.20171219/desktop_windows_amd64.exe)（64位操作系统**兼容所有CPU**）
 
 ## mac
 
