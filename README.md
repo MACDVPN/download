@@ -110,6 +110,10 @@ MIXED 127.0.0.1:18080 （推荐！兼容 HTTP / SOCKS 4/4a/5）
 
 待编译
 
+# 移动版
+## android
+[android.apk](https://macdvpn.com/tmp/20171205.20171229/android.apk)
+
 # 命令行版本（全平台CLI无所不能）
 ## windows
 [20171205.20171229_console_windows_386.exe](https://macdvpn.com/tmp/20171205.20171229/console_windows_386.exe)（兼容32位与64位操作系统）
