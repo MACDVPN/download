@@ -102,7 +102,7 @@ MIXED 127.0.0.1:18080 （推荐！兼容 HTTP / SOCKS 4/4a/5）
 [20171205.20171229_desktop_windows_amd64.exe](https://macdvpn.com/tmp/20171205.20171229/desktop_windows_amd64.exe)（64位操作系统）
 
 ## mac
-[20171205.20171229_desktop_windows_amd64.exe](https://macdvpn.com/tmp/20171205.20171229/desktop_darwin_arm64)（64位操作系统）
+[20171205.20171229_desktop_darwin_arm64](https://macdvpn.com/tmp/20171205.20171229/desktop_darwin_arm64)（64位操作系统）
 
 待编译
 
