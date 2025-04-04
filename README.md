@@ -52,8 +52,6 @@ ios（即将发布）
 
 6.开启安全与极速之旅（默认会设置系统代理，可以自己设置MIXED代理）
 
-[mac控制台版本使用教程.mp4](https://macdvpn.com/tmp/video/mac-console.mp4)
-
 # 命令行版本使用教程（局域网模式）
 1.下载
 
